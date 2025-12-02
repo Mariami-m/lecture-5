@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Momo+Signature&family=Roboto+Slab:wght@100..900&family=Rubik+80s+Fade&display=swap");
+
+/* @import url("//cdn.web-fonts.ge/fonts/alkdots/css/alkdots.min.css"); */
+/* @import url("//cdn.web-fonts.ge/fonts/bpg-irubaqidze/css/bpg-irubaqidze.min.css"); */
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: "Rubik 80s Fade", sans-serif;
+}
+h2 {
+  font-family: "Momo Signature", sans-serif;
+}
+h3 {
+  font-family: "Roboto Slab", sans-serif;
+}
+
+p {
+  font-family: "ALKDots", sans-serif;
+}
+
+span {
+  font-family: "BPG Irubaqidze", sans-serif;
+}
